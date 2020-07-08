@@ -1,4 +1,4 @@
-# Evnt
+# Event
 Evnt planning full stack app with authentication and database hosted on [mLab](https://mlab.com/).
 
 ![Screenshot](https://raw.githubusercontent.com/koko57/portfolio/master/static/img/evnt.png)
